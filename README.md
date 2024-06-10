@@ -9,12 +9,12 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=ff5757&custom_title=My%20Top%20Languages&border_color=ff5757&bg_color=191919&text_color=ffffff" >
-        <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=ff5757&custom_title=My%20Top%20Languages&border_color=ff5757&bg_color=ffffff&text_color=000000" >
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=ff5757&custom_title=My%20Top%20Languages&border_color=ff5757&bg_color=191919&text_color=ffffff&text_bold=true" >
+        <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=f84444&custom_title=My%20Top%20Languages&border_color=f84444&bg_color=ffffff&text_color=000000&text_bold=true" >
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&custom_title=My%20Stats&title_color=ff5757&border_color=ff5757&bg_color=191919&text_color=ffffff" >
-        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&custom_title=My%20Stats&title_color=ff5757&border_color=ff5757&bg_color=ffffff&text_color=000000" >
+        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&custom_title=My%20Stats&title_color=f84444&border_color=f84444&bg_color=ffffff&text_color=000000" >
     </picture>
 </div>
 <br/>
