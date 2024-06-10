@@ -1,6 +1,9 @@
 <div align="center">
     <a href="https://www.connellboyce.com" target="_blank">
-        <img src=https://github.com/connellboyce/connellboyce/blob/main/profileHeader.png />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/connellboyce/connellboyce/blob/main/profileHeader.png" >
+            <img alt="profile header" src="https://github.com/connellboyce/connellboyce/blob/main/profileHeader_light.png" >
+        </picture>
     </a>
 </div>
 
