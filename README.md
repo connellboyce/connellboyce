@@ -33,5 +33,5 @@
 </div>  
 <div align="center">
 <a href="https://www.connellboyce.com" target="_blank">
-<img src=https://github.com/connellboyce/connellboyce/blob/main/website-button.png alt=my%20website style="margin-bottom: 5px;" />
+<img src=https://github.com/connellboyce/connellboyce/blob/main/website-button.png alt=my%20website style="margin-bottom: 5px; margin-top:5px;" />
 </div>  
