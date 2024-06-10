@@ -39,10 +39,11 @@
 <img src=https://github.com/connellboyce/connellboyce/blob/main/website-button.png alt=my%20website style="margin-bottom: 5px; margin-top:5px;" />
 </div>  
 <br/>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
+            
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=connellboyce&&style=flat-square" align="center" />
+</div>  
+<br/>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/connellboyce" target="_blank" style="display: inline-block;">
