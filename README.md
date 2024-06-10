@@ -33,18 +33,12 @@
 <a href="https://twitter.com/ConnellBoyce" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
-<div align="center">
-<a href="https://www.connellboyce.com" target="_blank">
-<img src=https://github.com/connellboyce/connellboyce/blob/main/website-button.png alt=my%20website style="margin-bottom: 5px; margin-top:5px;" />
-</div>  
+</div>   
 <br/>
             
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=connellboyce&&style=flat-square" align="center" />
 </div>  
-<br/>
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/connellboyce" target="_blank" style="display: inline-block;">
                 <img
