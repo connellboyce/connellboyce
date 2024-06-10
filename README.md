@@ -1,6 +1,6 @@
-<div align="center" style="border-radius: 25px; border: 1px solid #ff5757;">
+<div align="center">
     <a href="https://www.connellboyce.com" target="_blank">
-        <img src=https://github.com/connellboyce/connellboyce/blob/main/profileHeader.png />
+        <img src=https://github.com/connellboyce/connellboyce/blob/main/profileHeader.png style="border-radius: 25px; border: 1px solid #ff5757;"/>
     </a>
 </div>
 
