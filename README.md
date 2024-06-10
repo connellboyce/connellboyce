@@ -5,8 +5,8 @@
 
 <br/>
 
-## My Skill Set  
 <div align="center">  
+<h3>My Languages and Tools</h3>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/connellboyce/connellboyce/blob/main/icons/spring-boot.png" alt="Spring Boot" height="50" /></a> 
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/connellboyce/connellboyce/blob/main/icons/aws.png" alt="AWS" height="50" /></a>  
@@ -22,11 +22,10 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
-
 <br/>
 
-## Follow My Socials 
 <div align="center">
+<h3>Follow My Socials</h3>
 <a href="https://linkedin.com/in/connellpboyce" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
