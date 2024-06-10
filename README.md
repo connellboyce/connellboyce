@@ -8,7 +8,7 @@
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/connellboyce/connellboyce/blob/main/icons/spring-boot.png" alt="Spring Boot" height="50" /></a> 
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/connellboyce/connellboyce/blob/main/icons/aws" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/connellboyce/connellboyce/blob/main/icons/aws.png" alt="AWS" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
