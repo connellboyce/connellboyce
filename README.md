@@ -3,8 +3,9 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=ff5757&custom_title=My%20Top%20Languages&border_color=ff5757&bg_color=191919&text_color=ffffff)
 ![github stats](https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&include_all_commits=true&custom_title=My%20Stats&title_color=ff5757&border_color=ff5757&bg_color=191919&text_color=ffffff)
 
-## My Skill Set  
+<br/>
 
+## My Skill Set  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/connellboyce/connellboyce/blob/main/icons/spring-boot.png" alt="Spring Boot" height="50" /></a> 
@@ -22,6 +23,8 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
+<br/>
+
 ## Follow My Socials 
 <div align="center">
 <a href="https://linkedin.com/in/connellpboyce" target="_blank">
@@ -35,3 +38,17 @@
 <a href="https://www.connellboyce.com" target="_blank">
 <img src=https://github.com/connellboyce/connellboyce/blob/main/website-button.png alt=my%20website style="margin-bottom: 5px; margin-top:5px;" />
 </div>  
+<br/>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/connellboyce" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+</div>
