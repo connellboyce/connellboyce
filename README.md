@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.connellboyce.com" target="_blank">
-        <img src=https://github.com/connellboyce/connellboyce/blob/main/profileHeader.png style="border: 2px solid #ff5757;"/>
+        <img src=https://github.com/connellboyce/connellboyce/blob/main/profileHeader.png />
     </a>
 </div>
 
