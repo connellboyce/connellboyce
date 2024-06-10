@@ -14,7 +14,7 @@
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&custom_title=My%20Stats&title_color=ff5757&border_color=ff5757&bg_color=191919&text_color=ffffff" >
-        <img alt="stats" src=""https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&custom_title=My%20Stats&title_color=ff5757&border_color=ff5757&bg_color=ffffff&text_color=000000" >
+        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=connellboyce&show_icons=true&theme=radical&hide_rank=true&line_height=28&custom_title=My%20Stats&title_color=ff5757&border_color=ff5757&bg_color=ffffff&text_color=000000" >
     </picture>
 </div>
 <br/>
