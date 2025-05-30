@@ -9,7 +9,7 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=ff5757&custom_title=My%20Top%20Languages&border_color=ff5757&bg_color=191919&text_color=ffffff" >
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=ff5757&custom_title=My%20Top%20Languages&border_color=ff5757&bg_color=191919&text_color=ffffff&exclude_repo=flappy-goopy" >
         <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=connellboyce&show_icons=true&theme=radical&layout=donut&title_color=f84444&custom_title=My%20Top%20Languages&border_color=f84444&bg_color=ffffff&text_color=000000" >
     </picture>
     <picture>
